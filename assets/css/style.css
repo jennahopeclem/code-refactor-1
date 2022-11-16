@@ -116,6 +116,11 @@ p {
     text-align: center;
 }
 
+.benH3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
